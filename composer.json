@@ -6,5 +6,7 @@
             "Mari\\HellowWorld\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "php": ">=7.4"
+    }
 }
