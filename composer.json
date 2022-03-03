@@ -1,0 +1,10 @@
+{
+    "name": "mari/hellow-world",
+    "description": "Testing",
+    "autoload": {
+        "psr-4": {
+            "Mari\\HellowWorld\\": "src/"
+        }
+    },
+    "require": {}
+}
